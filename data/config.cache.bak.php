@@ -1,11 +1,11 @@
 <?php
-$cfg_basehost = 'http://www.zhendasm.com';
+$cfg_basehost = 'http://www.zdfrt.com';
 $cfg_cmspath = '';
-$cfg_cookie_encode = '7Drtfl04dr0SMr80mhgOWw8BEi47';
+$cfg_cookie_encode = 'hNQrrW4s9wnMfwAyfImqeUGG5cuT';
 $cfg_indexurl = '/';
 $cfg_backup_dir = 'backupdata';
 $cfg_indexname = '主页';
-$cfg_webname = '清湿堂 二十八珍膏';
+$cfg_webname = '我的网站';
 $cfg_adminemail = 'admin@dedecms.com';
 $cfg_html_editor = 'ckeditor';
 $cfg_arcdir = '/a';

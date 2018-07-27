@@ -4,7 +4,7 @@
 
 <url>
 
-<loc>http://www.zhendasm.com/</loc>
+<loc>http://www.zdfrt.com/</loc>
 
 <lastmod>{dede:arclist row=1 titlelen=24 orderby=pubdate}
 
@@ -22,7 +22,7 @@
 
 <url>
 
-<loc>http://www.zhendasm.com[field:typelink /]</loc>
+<loc>http://www.zdfrt.com[field:typelink /]</loc>
 
 <changefreq>daily</changefreq>
 
@@ -36,7 +36,7 @@
 
 <url>
 
-<loc>http://www.zhendasm.com[field:arcurl/]</loc>
+<loc>http://www.zdfrt.com[field:arcurl/]</loc>
 
 <lastmod>[field:pubdate function=strftime('%Y-%m-%d',@me)/]
 
